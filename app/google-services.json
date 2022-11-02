@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "390473112908",
+    "firebase_url": "https://attendance-d04fd-default-rtdb.firebaseio.com",
+    "project_id": "attendance-d04fd",
+    "storage_bucket": "attendance-d04fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390473112908:android:80ddd93538dbfaa89d43e9",
+        "android_client_info": {
+          "package_name": "com.app.flamingo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390473112908-rudute1a9da4ougp05035pqpq92g710q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhleEjF_LDbQb9KkNG0c9m-rXTJkQq3Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390473112908-rudute1a9da4ougp05035pqpq92g710q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390473112908:android:23fef6f461903aff9d43e9",
+        "android_client_info": {
+          "package_name": "in.gabsinfo.geofenceattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390473112908-nqf67j3q4b1jmvad7lle4fsqlor87f3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.gabsinfo.geofenceattendance",
+            "certificate_hash": "da498a668f167ef8856bb6e05a970128e103abcc"
+          }
+        },
+        {
+          "client_id": "390473112908-rudute1a9da4ougp05035pqpq92g710q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhleEjF_LDbQb9KkNG0c9m-rXTJkQq3Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390473112908-rudute1a9da4ougp05035pqpq92g710q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
